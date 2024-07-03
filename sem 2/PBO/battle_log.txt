@@ -1,0 +1,1923 @@
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 58 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 48 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Squirtle now has 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan elemen angin!
+It's super effective! The wind attack deals 31 damage!
+Golem now has 49 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 28 HP.
+
+Ditto menggunakan serangan elemen angin!
+It's super effective! The wind attack deals 31 damage!
+Golem now has -3 HP.
+
+Golem dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 38 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Ditto successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Golem menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 17 HP.
+
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Golem menggunakan serangan dasar!
+Ditto sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Ditto!
+Ditto sekarang memiliki 12 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 70 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Pikachu now has 50 HP.
+
+Pikachu menggunakan serangan elemen api!
+It's super effective! The fire attack deals 31 damage!
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 29 HP.
+
+Pikachu menggunakan serangan elemen api!
+It's super effective! The fire attack deals 31 damage!
+Ditto now has -14 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Golem
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 50 HP.
+
+Pikachu menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Pikachu menggunakan serangan dasar!
+Ditto sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Ditto!
+Ditto sekarang memiliki 33 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 40 HP.
+
+Pikachu menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 23 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 39 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 18 HP.
+
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Pikachu sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 8 HP.
+
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Pikachu sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 0 HP.
+
+Pikachu dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Item Health Potion digunakan!
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Sandslash menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 37 HP.
+
+Failed to run away!
+Sandslash sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Sandslash sedang bertahan dan tidak bisa menyerang.
+Failed to run away!
+Sandslash sedang bertahan dan tidak bisa menyerang.
+Ditto successfully ran away!
+No items available!
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Spheal!
+Spheal sekarang memiliki 80 HP.
+
+Spheal sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Spheal sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Spheal!
+Spheal sekarang memiliki 70 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 49 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 28 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 28 HP.
+
+Spheal menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 7 HP.
+
+Spheal sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Spheal sedang bertahan dan tidak bisa menyerang.
+Ditto menggunakan serangan spesial!
+Spheal sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Spheal!
+Spheal sekarang memiliki 0 HP.
+
+Spheal dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 58 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Squirtle sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 48 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Squirtle sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 38 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 17 HP.
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 0 HP.
+
+Squirtle dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 59 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 38 HP.
+
+Golem menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has -4 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Bulbasaur
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 39 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Pikachu menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 18 HP.
+
+Pikachu menggunakan serangan elemen api!
+It's super effective! The fire attack deals 31 damage!
+Ditto now has -14 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Bulbasaur
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 37 HP.
+
+Bulbasaur menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 16 HP.
+
+Bulbasaur menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 0 HP.
+
+Bulbasaur dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 69 HP.
+
+Spheal menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Bulbasaur
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 49 HP.
+
+Sandslash menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 28 HP.
+
+Sandslash menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 7 HP.
+
+Sandslash menggunakan serangan elemen es!
+The ice attack deals 10 damage.
+Ditto now has 7 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 0 HP.
+
+Sandslash dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 70 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Bulbasaur
+Bulbasaur menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Golem now has 60 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 48 HP.
+
+Bulbasaur menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 39 HP.
+
+Golem menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Bulbasaur now has 38 HP.
+
+Bulbasaur menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 18 HP.
+
+Golem menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Bulbasaur now has 28 HP.
+
+Bulbasaur menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 0 HP.
+
+Golem dikalahkan!
+Bulbasaur berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Charmander!
+Charmander sekarang memiliki 57 HP.
+
+Charmander sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Charmander sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 47 HP.
+
+Charmander sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Charmander sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 37 HP.
+
+Charmander sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Charmander sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 27 HP.
+
+Charmander menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 17 HP.
+
+Charmander sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan dasar!
+Charmander sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Charmander!
+Charmander sekarang memiliki 12 HP.
+
+Charmander sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan dasar!
+Charmander sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Charmander!
+Charmander sekarang memiliki 7 HP.
+
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 0 HP.
+
+Charmander dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Spheal!
+Spheal sekarang memiliki 80 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Spheal!
+Spheal sekarang memiliki 70 HP.
+
+Spheal menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Squirtle
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 49 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 69 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 28 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 59 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 49 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 7 HP.
+
+Spheal menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 0 HP.
+
+Spheal dikalahkan!
+Squirtle berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 39 HP.
+
+Pikachu menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 18 HP.
+
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Pikachu sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 8 HP.
+
+Pikachu menggunakan serangan elemen api!
+It's super effective! The fire attack deals 31 damage!
+Ditto now has 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 0 HP.
+
+Pikachu dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Item Health Potion digunakan!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 69 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 69 HP.
+
+Spheal menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Ditto now has 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Spheal sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Spheal sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Spheal!
+Spheal sekarang memiliki 59 HP.
+
+Spheal menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Ditto now has 28 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 38 HP.
+
+Spheal sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Spheal sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Spheal!
+Spheal sekarang memiliki 28 HP.
+
+Spheal menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Ditto now has 18 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 7 HP.
+
+Spheal sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Spheal sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Spheal!
+Spheal sekarang memiliki 0 HP.
+
+Spheal dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+No items available!
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto sedang bertahan dan tidak bisa menyerang.
+Pikachu sedang bertahan dan tidak bisa menyerang.
+Ditto sedang bertahan dan tidak bisa menyerang.
+Pikachu sedang bertahan dan tidak bisa menyerang.
+Squirtle menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Golem menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Squirtle now has 69 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Golem menggunakan serangan dasar!
+Squirtle sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 64 HP.
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 70 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 43 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Squirtle menggunakan serangan spesial!
+Golem sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 60 HP.
+
+Golem menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Squirtle now has 33 HP.
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 50 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 29 HP.
+
+Golem menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Squirtle now has 23 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Golem menggunakan serangan spesial!
+Squirtle sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 13 HP.
+
+No items available!
+Failed to run away!
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Squirtle successfully ran away!
+Charmander successfully ran away!
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Ditto sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 28 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto successfully ran away!
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 28 HP.
+
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan dasar!
+Ditto sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Ditto!
+Ditto sekarang memiliki 23 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 28 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 2 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has -8 HP.
+
+Ditto dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Golem now has 70 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Ditto
+Ditto menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Golem now has 60 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Ditto
+Golem menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Ditto now has -10 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+No items available!
+Failed to run away!
+Failed to run away!
+Failed to run away!
+Bulbasaur menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 59 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 48 HP.
+
+Bulbasaur menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 38 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Bulbasaur sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Golem menggunakan serangan spesial!
+Bulbasaur sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 38 HP.
+
+Bulbasaur menggunakan serangan spesial!
+Golem sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 28 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 17 HP.
+
+Bulbasaur menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 7 HP.
+
+Golem menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Bulbasaur now has 7 HP.
+
+Bulbasaur menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 0 HP.
+
+Golem dikalahkan!
+Bulbasaur berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Bulbasaur menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 37 HP.
+
+Bulbasaur menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Squirtle
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 39 HP.
+
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Pikachu sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 29 HP.
+
+Pikachu menggunakan serangan elemen api!
+It's super effective! The fire attack deals 31 damage!
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 8 HP.
+
+Pikachu menggunakan serangan elemen api!
+It's super effective! The fire attack deals 31 damage!
+Ditto now has 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Charmander
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 69 HP.
+
+Spheal menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 48 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 27 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Spheal menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Ditto now has 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Charmander
+Failed to run away!
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 68 HP.
+
+Charmander successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 69 HP.
+
+Spheal sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Spheal sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Spheal!
+Spheal sekarang memiliki 59 HP.
+
+Spheal menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 38 HP.
+
+Spheal menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 17 HP.
+
+Spheal menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Bulbasaur
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 6 HP.
+
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Ditto sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 59 HP.
+
+Golem menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 38 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Squirtle
+Squirtle menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Squirtle menggunakan serangan spesial!
+Golem sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 28 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 69 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 48 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 27 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 7 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 17 HP.
+
+Squirtle menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Golem now has 0 HP.
+
+Golem dikalahkan!
+Squirtle berhasil mendapatkan 50 EP!
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 0 HP.
+
+Golem dikalahkan!
+Squirtle berhasil mendapatkan 50 EP!
+Squirtle menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Ditto now has 38 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 7 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Squirtle now has 0 HP.
+
+Squirtle dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Golem
+Golem menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 0 HP.
+
+Ditto dikalahkan!
+Golem berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 49 HP.
+
+Sandslash menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Sandslash now has 39 HP.
+
+Sandslash menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 18 HP.
+
+Sandslash sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Sandslash sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 8 HP.
+
+Sandslash menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 0 HP.
+
+Sandslash dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 39 HP.
+
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Pikachu sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 29 HP.
+
+Pikachu menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 8 HP.
+
+Pikachu menggunakan serangan elemen api!
+It's super effective! The fire attack deals 31 damage!
+Ditto now has 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 0 HP.
+
+Pikachu dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan elemen angin!
+It's super effective! The wind attack deals 31 damage!
+Golem now has 49 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Pikachu
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 28 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Pikachu menggunakan serangan spesial!
+Golem sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 18 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 50 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 0 HP.
+
+Golem dikalahkan!
+Pikachu berhasil mendapatkan 50 EP!
+Pikachu menggunakan serangan elemen api!
+The fire attack deals 10 damage.
+Squirtle now has 69 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Pikachu menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Squirtle menggunakan serangan elemen air!
+It's super effective! The water attack deals 31 damage!
+Pikachu now has 19 HP.
+
+Pikachu menggunakan serangan spesial!
+Squirtle sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 59 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 0 HP.
+
+Pikachu dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Golem
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 38 HP.
+
+Squirtle menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Golem now has 70 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 17 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Golem menggunakan serangan spesial!
+Squirtle sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 7 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Golem menggunakan serangan spesial!
+Squirtle sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 0 HP.
+
+Squirtle dikalahkan!
+Golem berhasil mendapatkan 50 EP!
+Item Earth Potion digunakan!
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 49 HP.
+
+Sandslash sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 58 HP.
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 37 HP.
+
+Squirtle menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Ditto now has 28 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 16 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 0 HP.
+
+Squirtle dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Item Health Potion digunakan!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 59 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 38 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Golem sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 28 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 28 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 7 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 0 HP.
+
+Golem dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Failed to run away!
+Spheal menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Ditto now has 17 HP.
+
+Ditto successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 37 HP.
+
+Bulbasaur menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Bulbasaur sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Bulbasaur sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 27 HP.
+
+Bulbasaur menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Pikachu
+Pikachu menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Bulbasaur sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Pikachu menggunakan serangan spesial!
+Bulbasaur sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 17 HP.
+
+Bulbasaur menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Pikachu now has 50 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 0 HP.
+
+Bulbasaur dikalahkan!
+Pikachu berhasil mendapatkan 50 EP!
+Pikachu menggunakan serangan elemen api!
+The fire attack deals 10 damage.
+Charmander now has 68 HP.
+
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 29 HP.
+
+Pikachu successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 6 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 28 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 49 HP.
+
+Sandslash menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 18 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 39 HP.
+
+Sandslash menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 8 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 29 HP.
+
+Sandslash menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Squirtle
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 70 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan dasar!
+Golem sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Golem!
+Golem sekarang memiliki 65 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 55 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan dasar!
+Golem sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Golem!
+Golem sekarang memiliki 50 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 28 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 40 HP.
+
+Golem menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Bulbasaur
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 6 HP.
+
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Ditto sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Pikachu now has 50 HP.
+
+Pikachu menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 28 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 29 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 19 HP.
+
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Pikachu sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 9 HP.
+
+Pikachu menggunakan serangan elemen api!
+It's super effective! The fire attack deals 31 damage!
+Ditto now has 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Charmander
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 0 HP.
+
+Pikachu dikalahkan!
+Charmander berhasil mendapatkan 50 EP!
+Charmander menggunakan serangan elemen api!
+The fire attack deals 10 damage.
+Spheal now has 80 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 68 HP.
+
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 59 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 58 HP.
+
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 38 HP.
+
+Spheal menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 48 HP.
+
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 17 HP.
+
+Spheal menggunakan serangan elemen air!
+It's super effective! The water attack deals 31 damage!
+Charmander now has 17 HP.
+
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Spheal!
+Spheal sekarang memiliki 0 HP.
+
+Spheal dikalahkan!
+Charmander berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 6 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 39 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Pikachu
+Failed to run away!
+Pikachu menggunakan serangan elemen api!
+The fire attack deals 10 damage.
+Pikachu now has 50 HP.
+
+Failed to run away!
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Pikachu successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 37 HP.
+
+Bulbasaur menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 16 HP.
+
+Bulbasaur sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Bulbasaur sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 6 HP.
+
+Bulbasaur menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Bulbasaur!
+Bulbasaur sekarang memiliki 0 HP.
+
+Bulbasaur dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 38 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 28 HP.
+
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 18 HP.
+
+Ditto menggunakan serangan dasar!
+Ditto sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Ditto!
+Ditto sekarang memiliki 2 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 8 HP.
+
+Ditto menggunakan serangan elemen angin!
+The wind attack deals 10 damage.
+Ditto now has 0 HP.
+
+Ditto dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 39 HP.
+
+Pikachu menggunakan serangan spesial!
+Ditto sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 58 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 18 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 0 HP.
+
+Pikachu dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 59 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 48 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 38 HP.
+
+Golem menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Charmander
+Charmander successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 39 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Squirtle
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 58 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 18 HP.
+
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Squirtle menggunakan serangan dasar!
+Pikachu sedang bertahan! Kerusakan berkurang menjadi 5
+Serangan menghasilkan 5 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 13 HP.
+
+Pikachu menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 48 HP.
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 3 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 27 HP.
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 0 HP.
+
+Pikachu dikalahkan!
+Squirtle berhasil mendapatkan 50 EP!
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 69 HP.
+
+Squirtle menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Squirtle now has 17 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 7 HP.
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 59 HP.
+
+Squirtle menggunakan serangan elemen air!
+The water attack deals 10 damage.
+Squirtle now has 0 HP.
+
+Squirtle dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Sandslash
+Sandslash successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 59 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Golem sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 49 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Golem sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 39 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 18 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 28 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 0 HP.
+
+Golem dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+No items available!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 39 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 18 HP.
+
+Pikachu sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Pikachu sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 8 HP.
+
+Pikachu menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Charmander
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Pikachu!
+Pikachu sekarang memiliki 0 HP.
+
+Pikachu dikalahkan!
+Charmander berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 59 HP.
+
+Golem menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 38 HP.
+
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 17 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Squirtle
+Squirtle successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Charmander!
+Charmander sekarang memiliki 57 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Squirtle
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 58 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Charmander!
+Charmander sekarang memiliki 36 HP.
+
+Charmander sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Squirtle menggunakan serangan spesial!
+Charmander sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Charmander!
+Charmander sekarang memiliki 26 HP.
+
+Charmander menggunakan serangan elemen api!
+The fire attack deals 10 damage.
+Squirtle now has 48 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Charmander!
+Charmander sekarang memiliki 5 HP.
+
+Charmander menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 27 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Charmander!
+Charmander sekarang memiliki 0 HP.
+
+Charmander dikalahkan!
+Squirtle berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 49 HP.
+
+Sandslash menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 27 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 28 HP.
+
+Sandslash sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Sandslash sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 18 HP.
+
+Sandslash menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 6 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Sandslash!
+Sandslash sekarang memiliki 0 HP.
+
+Sandslash dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
+No items available!
+No items available!
+No items available!
+No items available!
+No items available!
+No items available!
+Ditto successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 59 HP.
+
+Golem menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 38 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Squirtle
+Failed to run away!
+Golem menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 69 HP.
+
+Failed to run away!
+Golem menggunakan serangan elemen tanah!
+The earth attack deals 10 damage.
+Squirtle now has 59 HP.
+
+Squirtle successfully ran away!
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 59 HP.
+
+Golem menggunakan serangan elemen tanah!
+It's super effective! The earth attack deals 31 damage!
+Ditto now has 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 38 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Golem sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 28 HP.
+
+Golem sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Golem sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Golem!
+Golem sekarang memiliki 18 HP.
+
+Golem menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 0 HP.
+
+Ditto dikalahkan dan dibawa kembali ke homebase!
+Monster berikutnya adalah Sandslash
+Sandslash menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Golem!
+Golem sekarang memiliki 0 HP.
+
+Golem dikalahkan!
+Sandslash berhasil mendapatkan 50 EP!
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 38 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 58 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Squirtle sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 48 HP.
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Ditto!
+Ditto sekarang memiliki 17 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 27 HP.
+
+Squirtle sedang bertahan! Serangan berikutnya akan mengurangi kerusakan.
+Ditto menggunakan serangan spesial!
+Squirtle sedang bertahan! Kerusakan berkurang menjadi 10
+Serangan spesial menghasilkan 10 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 17 HP.
+
+Squirtle menggunakan serangan dasar!
+Serangan menghasilkan 10 kerusakan pada Ditto!
+Ditto sekarang memiliki 7 HP.
+
+Ditto menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Squirtle menggunakan serangan spesial!
+Serangan spesial meleset!
+
+Ditto menggunakan serangan spesial!
+Serangan spesial menghasilkan 21 kerusakan pada Squirtle!
+Squirtle sekarang memiliki 0 HP.
+
+Squirtle dikalahkan!
+Ditto berhasil mendapatkan 50 EP!
