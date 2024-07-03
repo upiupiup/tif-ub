@@ -1,0 +1,47 @@
+h1 {
+    color:sienna ;font-family: 'Blueberry Days'; text-align: center; font-size: 400%;text-shadow: 3px 2px black;
+}
+@font-face {
+    font-family: 'Blueberry Days';
+    src: url(Blueberry\ Days.otf); }
+@font-face {
+    font-family: 'Maretta';
+    src: url(Maretta.otf);}    
+@font-face {
+    font-family: 'Avocado';
+    src: url(Avocado\ Cake\ Demo.otf);} 
+@font-face {
+    font-family: 'Sandwich';
+    src: url(Sandwich.otf);
+}
+
+h4 {text-align: center;}
+
+#linkmedsos {text-align:center; font-family: 'Avocado'; font-size:x-large; color: burlywood;}
+
+#likesdislikes {font-family: 'Sandwich' ;font-size: 500%; color: tan; text-shadow: 2px 2px black ; text-align: center;}
+
+#content {text-align: center;}
+
+#alumnia {font-family: 'Sandwich' ;font-size: 500%; color: tan; text-shadow: 2px 2px black ; text-align: center;}
+
+
+body {background: url(gray-calathea-lutea-leaf-patterned-background_53876-149681.webp);}
+
+table {margin:auto ; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ; border-collapse: collapse;}
+
+table, tr, td {
+    border: 2px solid #a86932; 
+    padding: 8px 20px;
+
+}
+
+tr:nth-child(even){
+    background-color:#bdb3aa; backface-visibility: visible;
+}
+
+tr:nth-child(odd){
+    background-color:#f5bc89 ;
+}
+
+form { margin-top: auto;}
